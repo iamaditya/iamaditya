@@ -11,8 +11,6 @@
 
 - 📝 I regulary write articles on [http://aditya1s2h.blogspot.com/](http://aditya1s2h.blogspot.com/)
 
-- 💬 Ask me about **c++**
-
 - 📫 How to reach me **aditya1s2h@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/-iamaditya/](https://www.linkedin.com/in/-iamaditya/)
