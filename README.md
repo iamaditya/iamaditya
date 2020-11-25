@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=welcome+gif&tbm=isch&ved=2ahUKEwjrgomIkJ7tAhXUDLcAHc3wCnIQ2-cCegQIABAA&oq=welcome+gif&gs_lcp=CgNpbWcQAzIHCAAQsQMQQzICCAAyBAgAEEMyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAUL9CWL9CYOtNaABwAHgAgAHHAYgBxwGSAQMwLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=oIe-X-uyJNSZ3LUPzeGrkAc&bih=722&biw=1536#imgrc=Jec8zTNfrg2FeM">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamaditya&label=Profile%20views&color=0e75b6&style=flat" alt="iamaditya" /> </p>
 
