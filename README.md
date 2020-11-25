@@ -19,14 +19,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tw_iamaditya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tw_iamaditya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/-iamaditya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="-iamaditya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14707832" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14707832" height="30" width="40" /></a>
-<a href="https://fb.com/ig.iamaditya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ig.iamaditya" height="30" width="40" /></a>
-<a href="https://instagram.com/ig_iamaditya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ig_iamaditya" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/cc_iamaditya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cc_iamaditya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hr_iamaditya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hr_iamaditya" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/iamaditya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="iamaditya" height="30" width="40" /></a>
+<a href="https://twitter.com/tw_iamaditya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tw_iamaditya" height="30" width="40" target="_blank" /></a>
+<a href="https://linkedin.com/in/-iamaditya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="-iamaditya" height="30" width="40" target="_blank" /></a>
+<a href="https://stackoverflow.com/users/14707832" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14707832" height="30" width="40" target="_blank" /></a>
+<a href="https://fb.com/ig.iamaditya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ig.iamaditya" height="30" width="40" target="_blank" /></a>
+<a href="https://instagram.com/ig_iamaditya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ig_iamaditya" height="30" width="40" target="_blank" /></a>
+<a href="https://www.codechef.com/users/cc_iamaditya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cc_iamaditya" height="30" width="40" target="_blank" /></a>
+<a href="https://www.hackerrank.com/hr_iamaditya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hr_iamaditya" height="30" width="40" target="_blank" /></a>
+<a href="https://auth.geeksforgeeks.org/user/iamaditya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="iamaditya" height="30" width="40" target="_blank" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
