@@ -1,6 +1,6 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQFyOBvyo9_0mw/profile-displaybackgroundimage-shrink_350_1400/0/1606059367012?e=1611792000&v=beta&t=7bQeNas7Wp2AK6AcK4CLrzuzU7fqIGSa14xjEwVC024)](https://www.linkedin.com/in/-iamaditya/)
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<marquee><h3 align="center">A passionate Software developer from India</h3></marquee>
+<h3 align="center">A passionate Software developer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamaditya&label=Profile%20views&color=0e75b6&style=flat" alt="iamaditya" /> </p>
